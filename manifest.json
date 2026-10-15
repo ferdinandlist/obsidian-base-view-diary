@@ -1,0 +1,11 @@
+{
+	"id": "diary-base-dict",
+	"name": "Diary Base Dictionary view",
+	"version": "0.1.0",
+	"minAppVersion": "1.0.0",
+	"description": "A base view that shows images and text excerpts",
+	"author": "Ferdinand List",
+	"authorUrl": "https://www.ferdinandlist.de",
+	"fundingUrl": "",
+	"isDesktopOnly": true
+}
